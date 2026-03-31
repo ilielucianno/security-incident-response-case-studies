@@ -90,7 +90,7 @@ text
 ## About the Author
 
 **Ilie Lucian**  
-Technical Department Manager with 10+ years in IT infrastructure, networking, and hardware. Currently pursuing cybersecurity certifications (TryHackMe SEC1, Security+, Network+).
+Technical Department Manager with 10+ years in IT infrastructure, networking, and hardware. SEC1 CERTIFIED ,Currently pursuing cybersecurity certifications  Security+ in progress, Network+ after).
 
 I built this repository to document real incidents I responded to and to share lessons with the cybersecurity community.
 
