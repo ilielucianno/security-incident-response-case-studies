@@ -31,21 +31,22 @@ I believe the best way to demonstrate cybersecurity skills is through real incid
 ---
 
 ## Repository Structure
+
+```
 security-incident-response-case-studies/
 │
 ├── README.md
 │
 ├── incidents/
-│ └── 01-crypto-phishing-attack.md
+│   └── 01-crypto-phishing-attack.md
 │
 ├── templates/
-│ ├── incident-report-template.md
-│ └── post-incident-review-template.md
+│   ├── incident-report-template.md
+│   └── post-incident-review-template.md
 │
 └── lessons-learned/
-└── common-phishing-techniques.md
-
-text
+    └── common-phishing-techniques.md
+```
 
 ---
 
