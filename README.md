@@ -26,7 +26,7 @@ I believe the best way to demonstrate cybersecurity skills is through real incid
 
 | # | Title | Date | Severity | Status |
 |---|-------|------|----------|--------|
-| 01 | [Crypto Wallet Phishing Attack – Real-Time Recovery](incidents/01-crypto-phishing-attack.md) | [date] | Critical | Resolved |
+| 01 | [Crypto Wallet Phishing Attack – Real-Time Recovery](incidents/01-crypto-phishing-attack.md) | [2022] | Critical | Resolved |
 
 ---
 
